@@ -1,2 +1,2 @@
 # java-new-features
-New java features
+Sample codes to explore new features of java
